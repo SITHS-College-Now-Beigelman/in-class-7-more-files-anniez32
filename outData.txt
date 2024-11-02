@@ -1,0 +1,6 @@
+Player: Joe, Average: 686
+Beginner - Keep Practicing!
+Player: Bob, Average: 569
+Beginner - Keep Practicing!
+Player: Will, Average: 1240
+Intermediate
